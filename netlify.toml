@@ -3,4 +3,5 @@
   command = "yarn build"
 
 [[plugins]]
+   package = "netlify-plugin-one"
   
