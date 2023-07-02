@@ -3,5 +3,4 @@
   command = "yarn build"
 
 [[plugins]]
-  package = "gatsby-plugin-netlify"
   package = "netlify-plugin-gatsby-cache"
